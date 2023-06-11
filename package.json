@@ -1,5 +1,5 @@
 {
-  "name": "@pomahtri/eslint-plugin-imports",
+  "name": "@pomahtri/eslint-plugin",
   "version": "0.0.1",
   "description": "ESLint rules to control your import statements ",
   "main": "index.js",
